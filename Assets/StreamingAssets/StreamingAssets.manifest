@@ -1,0 +1,1083 @@
+ManifestFileVersion: 0
+CRC: 978169129
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: atlas/gameatlas.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: atlas/gameatlas/atlas10studentframe.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_2:
+      Name: atlas/gameatlas/atlasbackframe.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_3:
+      Name: atlas/gameatlas/atlasbackscale.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_4:
+      Name: atlas/gameatlas/atlasbinarycode.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_5:
+      Name: atlas/gameatlas/atlascoach.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_6:
+      Name: atlas/gameatlas/atlascoachdate.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_7:
+      Name: atlas/gameatlas/atlascombatattacktext.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_8:
+      Name: atlas/gameatlas/atlascombatframe.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_9:
+      Name: atlas/gameatlas/atlascommon.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_10:
+      Name: atlas/gameatlas/atlascountdown.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_11:
+      Name: atlas/gameatlas/atlasendingsidedata.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_12:
+      Name: atlas/gameatlas/atlasgamehint.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_13:
+      Name: atlas/gameatlas/atlasheartrate.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_14:
+      Name: atlas/gameatlas/atlasmodeselect.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_15:
+      Name: atlas/gameatlas/atlasqumu.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_16:
+      Name: atlas/gameatlas/atlasracetime.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_17:
+      Name: atlas/gameatlas/atlasrealscenematchdegree.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_18:
+      Name: atlas/gameatlas/atlasresultlabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_19:
+      Name: atlas/gameatlas/atlasridingtheme.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_20:
+      Name: atlas/gameatlas/atlassetting.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_21:
+      Name: atlas/gameatlas/atlassettlementsummarize.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_22:
+      Name: atlas/gameatlas/atlassidemenu.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_23:
+      Name: atlas/gameatlas/atlasstudent.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_24:
+      Name: atlas/gameatlas/atlastimemileage.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_25:
+      Name: atlas/gameatlas/atlastopmenu.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_26:
+      Name: atlas/gameatlas/atlaswechatlogin.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas.unity3d
+    Info_27:
+      Name: atlas/numberstyle.unity3d
+      Dependencies: {}
+    Info_28:
+      Name: atlas/numberstyle/atlasblacknumber.unity3d
+      Dependencies:
+        Dependency_0: atlas/numberstyle.unity3d
+    Info_29:
+      Name: atlas/numberstyle/atlasbluenumber.unity3d
+      Dependencies:
+        Dependency_0: atlas/numberstyle.unity3d
+    Info_30:
+      Name: atlas/numberstyle/atlasrednumber.unity3d
+      Dependencies:
+        Dependency_0: atlas/numberstyle.unity3d
+    Info_31:
+      Name: atlas/numberstyle/atlaswhitenumber.unity3d
+      Dependencies:
+        Dependency_0: atlas/numberstyle.unity3d
+    Info_32:
+      Name: atlas/textureanim.unity3d
+      Dependencies: {}
+    Info_33:
+      Name: atlas/textureanim/atlasarrangementlevel0.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_34:
+      Name: atlas/textureanim/atlasarrangementlevel1.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_35:
+      Name: atlas/textureanim/atlasarrangementlevel2.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_36:
+      Name: atlas/textureanim/atlasarrangementlevel3.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_37:
+      Name: atlas/textureanim/atlasarrangementlevelselect.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_38:
+      Name: atlas/textureanim/atlascombatinvalid.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_39:
+      Name: atlas/textureanim/atlascombatresult.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_40:
+      Name: atlas/textureanim/atlaskcallabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_41:
+      Name: atlas/textureanim/atlaslogintip.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_42:
+      Name: atlas/textureanim/atlasmatchvaluelabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_43:
+      Name: atlas/textureanim/atlasmaxheartbeatrate.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_44:
+      Name: atlas/textureanim/atlasmaxspeedlabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_45:
+      Name: atlas/textureanim/atlasmileagelabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_46:
+      Name: atlas/textureanim/atlasmovingarrow.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_47:
+      Name: atlas/textureanim/atlasnextloop.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_48:
+      Name: atlas/textureanim/atlasrankinglabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_49:
+      Name: atlas/textureanim/atlasselectmodecombatlabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_50:
+      Name: atlas/textureanim/atlasselectmodematchlabel.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_51:
+      Name: atlas/textureanim/atlasselectmodemileagegame.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_52:
+      Name: atlas/textureanim/atlasthirtypeople.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_53:
+      Name: atlas/textureanim/atlasturncurve.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_54:
+      Name: atlas/textureanim/atlaswholemodetext.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim.unity3d
+    Info_55:
+      Name: font/fzy3jw.unity3d
+      Dependencies:
+        Dependency_0: font.unity3d
+    Info_56:
+      Name: font.unity3d
+      Dependencies: {}
+    Info_57:
+      Name: font/fzzyjw.unity3d
+      Dependencies:
+        Dependency_0: font.unity3d
+    Info_58:
+      Name: font/simhei.unity3d
+      Dependencies:
+        Dependency_0: font.unity3d
+    Info_59:
+      Name: keyframe/alphamileagegame.unity3d
+      Dependencies: {}
+    Info_60:
+      Name: keyframe/alphastargame.unity3d
+      Dependencies: {}
+    Info_61:
+      Name: keyframe/coachflicker.unity3d
+      Dependencies: {}
+    Info_62:
+      Name: keyframe/countdown.unity3d
+      Dependencies: {}
+    Info_63:
+      Name: keyframe/hslstudent.unity3d
+      Dependencies: {}
+    Info_64:
+      Name: keyframe/movestargame.unity3d
+      Dependencies: {}
+    Info_65:
+      Name: keyframe/onezero.unity3d
+      Dependencies: {}
+    Info_66:
+      Name: keyframe/onezeroone.unity3d
+      Dependencies: {}
+    Info_67:
+      Name: keyframe/onezeroone_curve.unity3d
+      Dependencies: {}
+    Info_68:
+      Name: keyframe/quadratic_curve.unity3d
+      Dependencies: {}
+    Info_69:
+      Name: keyframe/sin_curve.unity3d
+      Dependencies: {}
+    Info_70:
+      Name: keyframe/zeroone.unity3d
+      Dependencies: {}
+    Info_71:
+      Name: keyframe/zeroonezero.unity3d
+      Dependencies: {}
+    Info_72:
+      Name: keyframe/zeroone_delay.unity3d
+      Dependencies: {}
+    Info_73:
+      Name: layout/layoutprefab/coach.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascoach.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlassetting.unity3d
+        Dependency_3: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_4: atlas/textureanim/atlasarrangementlevel0.unity3d
+        Dependency_5: material.unity3d
+        Dependency_6: shader.unity3d
+        Dependency_7: texture/gametexture/coach.unity3d
+    Info_74:
+      Name: layout/layoutprefab/combatattack.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascombatattacktext.unity3d
+        Dependency_1: atlas/numberstyle/atlasrednumber.unity3d
+        Dependency_2: texture/textureanim/attackblue1.unity3d
+        Dependency_3: texture/textureanim/attackblue2.unity3d
+        Dependency_4: texture/textureanim/attackblue3.unity3d
+        Dependency_5: texture/textureanim/attackgreen1.unity3d
+        Dependency_6: texture/textureanim/attackgreen2.unity3d
+        Dependency_7: texture/textureanim/attackgreen3.unity3d
+        Dependency_8: texture/textureanim/attackred1.unity3d
+        Dependency_9: texture/textureanim/attackred2.unity3d
+        Dependency_10: texture/textureanim/attackred3.unity3d
+        Dependency_11: texture/textureanim/attackyellow1.unity3d
+        Dependency_12: texture/textureanim/attackyellow2.unity3d
+        Dependency_13: texture/textureanim/attackyellow3.unity3d
+    Info_75:
+      Name: layout/layoutprefab/dataitem.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/gameatlas/atlasendingsidedata.unity3d
+        Dependency_2: atlas/gameatlas/atlasresultlabel.unity3d
+        Dependency_3: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_4: atlas/textureanim/atlascombatresult.unity3d
+        Dependency_5: atlas/textureanim/atlaskcallabel.unity3d
+        Dependency_6: atlas/textureanim/atlasmatchvaluelabel.unity3d
+        Dependency_7: atlas/textureanim/atlasmaxheartbeatrate.unity3d
+        Dependency_8: atlas/textureanim/atlasmaxspeedlabel.unity3d
+        Dependency_9: atlas/textureanim/atlasmileagelabel.unity3d
+        Dependency_10: atlas/textureanim/atlasrankinglabel.unity3d
+        Dependency_11: font.unity3d
+        Dependency_12: material.unity3d
+        Dependency_13: texture/gametexture/student.unity3d
+        Dependency_14: texture/textureanim/dataitem.unity3d
+    Info_76:
+      Name: layout/layoutprefab/linklight.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: material.unity3d
+        Dependency_2: texture/gametexture/student.unity3d
+    Info_77:
+      Name: layout/layoutprefab/loginprompt.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasgamehint.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_2: font/simhei.unity3d
+        Dependency_3: material.unity3d
+        Dependency_4: shader.unity3d
+    Info_78:
+      Name: layout/layoutprefab/numbercontrol.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlassetting.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+    Info_79:
+      Name: layout/layoutprefab/raceline.unity3d
+      Dependencies:
+        Dependency_0: material.unity3d
+        Dependency_1: shader.unity3d
+        Dependency_2: texture/gametexture/student.unity3d
+    Info_80:
+      Name: layout/layoutprefab/settlementsummarize.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/numberstyle/atlasbluenumber.unity3d
+        Dependency_2: atlas/textureanim/atlaswholemodetext.unity3d
+    Info_81:
+      Name: layout/layoutprefab/student.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_2: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_3: material.unity3d
+        Dependency_4: particle/attackpoint/materials.unity3d
+        Dependency_5: texture/gametexture/student.unity3d
+        Dependency_6: texture/textureanim/allmatch.unity3d
+    Info_82:
+      Name: layout/layoutprefab/studentheartrate.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasheartrate.unity3d
+        Dependency_1: atlas/numberstyle/atlasrednumber.unity3d
+    Info_83:
+      Name: layout/layoutprefab/studentrace.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_2: material.unity3d
+        Dependency_3: particle/attackpoint/materials.unity3d
+        Dependency_4: shader.unity3d
+        Dependency_5: texture/gametexture/student.unity3d
+        Dependency_6: texture/textureanim/reachline.unity3d
+    Info_84:
+      Name: layout/layoutprefab/studentwechat.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_2: material.unity3d
+        Dependency_3: texture/gametexture/student.unity3d
+    Info_85:
+      Name: layout/uiprefab/uiauxiliarywindow.unity3d
+      Dependencies: {}
+    Info_86:
+      Name: layout/uiprefab/uibackframe.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbackframe.unity3d
+        Dependency_1: shader.unity3d
+        Dependency_2: texture/gametexture/backframe.unity3d
+        Dependency_3: texture/textureanim/switchvideo.unity3d
+    Info_87:
+      Name: layout/uiprefab/uibackscale.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbackscale.unity3d
+        Dependency_1: shader.unity3d
+        Dependency_2: texture/gametexture/backscale.unity3d
+    Info_88:
+      Name: layout/uiprefab/uibinarycode.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbinarycode.unity3d
+        Dependency_1: texture/gametexture/binarycode.unity3d
+    Info_89:
+      Name: layout/uiprefab/uicoachcombat.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascoach.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlassetting.unity3d
+        Dependency_3: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_4: atlas/textureanim/atlasarrangementlevel0.unity3d
+        Dependency_5: material.unity3d
+        Dependency_6: shader.unity3d
+        Dependency_7: texture/gametexture/coach.unity3d
+    Info_90:
+      Name: layout/uiprefab/uicoachdata.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascoachdate.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlasgamehint.unity3d
+        Dependency_3: atlas/gameatlas/atlasresultlabel.unity3d
+        Dependency_4: atlas/numberstyle/atlaswhitenumber.unity3d
+    Info_91:
+      Name: layout/uiprefab/uicoachmatch.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascoach.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlassetting.unity3d
+        Dependency_3: atlas/gameatlas/atlassidemenu.unity3d
+        Dependency_4: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_5: atlas/textureanim/atlasarrangementlevel0.unity3d
+        Dependency_6: material.unity3d
+        Dependency_7: shader.unity3d
+        Dependency_8: texture/gametexture/coach.unity3d
+    Info_92:
+      Name: layout/uiprefab/uicoachwechatlogin.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascoach.unity3d
+        Dependency_1: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_2: material.unity3d
+        Dependency_3: shader.unity3d
+        Dependency_4: texture/gametexture/coach.unity3d
+    Info_93:
+      Name: layout/uiprefab/uicombatattack.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascombatattacktext.unity3d
+        Dependency_1: atlas/numberstyle/atlasrednumber.unity3d
+        Dependency_2: texture/textureanim/attackblue1.unity3d
+        Dependency_3: texture/textureanim/attackblue2.unity3d
+        Dependency_4: texture/textureanim/attackblue3.unity3d
+        Dependency_5: texture/textureanim/attackgreen1.unity3d
+        Dependency_6: texture/textureanim/attackgreen2.unity3d
+        Dependency_7: texture/textureanim/attackgreen3.unity3d
+        Dependency_8: texture/textureanim/attackred1.unity3d
+        Dependency_9: texture/textureanim/attackred2.unity3d
+        Dependency_10: texture/textureanim/attackred3.unity3d
+        Dependency_11: texture/textureanim/attackyellow1.unity3d
+        Dependency_12: texture/textureanim/attackyellow2.unity3d
+        Dependency_13: texture/textureanim/attackyellow3.unity3d
+    Info_94:
+      Name: layout/uiprefab/uicombatframe.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascombatframe.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/numberstyle/atlaswhitenumber.unity3d
+    Info_95:
+      Name: layout/uiprefab/uicombatresult.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim/atlascombatinvalid.unity3d
+        Dependency_1: texture/textureanim/championicon.unity3d
+        Dependency_2: texture/textureanim/restartcombat.unity3d
+    Info_96:
+      Name: layout/uiprefab/uicountdown.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascountdown.unity3d
+    Info_97:
+      Name: layout/uiprefab/uidebugging.unity3d
+      Dependencies:
+        Dependency_0: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_1: font/simhei.unity3d
+    Info_98:
+      Name: layout/uiprefab/uiendingsidedata.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbinarycode.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlasendingsidedata.unity3d
+        Dependency_3: atlas/gameatlas/atlaswechatlogin.unity3d
+        Dependency_4: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_5: material.unity3d
+        Dependency_6: texture/gametexture/endingsidedata.unity3d
+    Info_99:
+      Name: layout/uiprefab/uigamecombatfinish.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/gamefinish.unity3d
+    Info_100:
+      Name: layout/uiprefab/uigamehint.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasgamehint.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+    Info_101:
+      Name: layout/uiprefab/uiglobaltouch.unity3d
+      Dependencies: {}
+    Info_102:
+      Name: layout/uiprefab/uiheartrate.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasheartrate.unity3d
+        Dependency_1: atlas/numberstyle/atlasrednumber.unity3d
+        Dependency_2: texture/gametexture/common.unity3d
+        Dependency_3: texture/textureanim/heartratecoachshow.unity3d
+    Info_103:
+      Name: layout/uiprefab/uiintroductions.unity3d
+      Dependencies:
+        Dependency_0: texture/gametexture/introductions.unity3d
+    Info_104:
+      Name: layout/uiprefab/uilessonfinish.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/lessonfinish.unity3d
+    Info_105:
+      Name: layout/uiprefab/uiloading.unity3d
+      Dependencies:
+        Dependency_0: font/simhei.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+        Dependency_2: texture/gametexture/loading.unity3d
+    Info_106:
+      Name: layout/uiprefab/uilogintip.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/logintip.unity3d
+    Info_107:
+      Name: layout/uiprefab/uilogo.unity3d
+      Dependencies:
+        Dependency_0: texture/gametexture/common.unity3d
+    Info_108:
+      Name: layout/uiprefab/uimatcheffect.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/amazing.unity3d
+        Dependency_1: texture/textureanim/completelymatch.unity3d
+        Dependency_2: texture/textureanim/cool.unity3d
+        Dependency_3: texture/textureanim/crazy.unity3d
+        Dependency_4: texture/textureanim/excellent.unity3d
+        Dependency_5: texture/textureanim/great.unity3d
+        Dependency_6: texture/textureanim/matchpercent.unity3d
+    Info_109:
+      Name: layout/uiprefab/uiracebottomframe.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlas10studentframe.unity3d
+    Info_110:
+      Name: layout/uiprefab/uiracemileageline.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlas10studentframe.unity3d
+        Dependency_1: font/fzy3jw.unity3d
+        Dependency_2: material.unity3d
+        Dependency_3: texture/gametexture/10studentframe.unity3d
+    Info_111:
+      Name: layout/uiprefab/uiracemusic.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasqumu.unity3d
+        Dependency_1: font/simhei.unity3d
+    Info_112:
+      Name: layout/uiprefab/uiracetime.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/gameatlas/atlasracetime.unity3d
+        Dependency_2: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_3: texture/textureanim/timecountdown.unity3d
+    Info_113:
+      Name: layout/uiprefab/uirealscenelogin.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasgamehint.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_2: font/simhei.unity3d
+        Dependency_3: material.unity3d
+        Dependency_4: shader.unity3d
+        Dependency_5: texture/gametexture/common.unity3d
+    Info_114:
+      Name: layout/uiprefab/uirealscenematchdegree.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascoach.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlasrealscenematchdegree.unity3d
+        Dependency_3: atlas/numberstyle/atlaswhitenumber.unity3d
+    Info_115:
+      Name: layout/uiprefab/uireturn.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/returnbutton.unity3d
+    Info_116:
+      Name: layout/uiprefab/uiridingtheme.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasridingtheme.unity3d
+        Dependency_1: atlas/gameatlas/atlassetting.unity3d
+        Dependency_2: font/simhei.unity3d
+        Dependency_3: texture/textureanim/ridingtheme.unity3d
+    Info_117:
+      Name: layout/uiprefab/uiselectcount.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim/atlasarrangementlevel0.unity3d
+        Dependency_1: atlas/textureanim/atlasarrangementlevel1.unity3d
+        Dependency_2: atlas/textureanim/atlasarrangementlevel2.unity3d
+        Dependency_3: atlas/textureanim/atlasarrangementlevel3.unity3d
+        Dependency_4: atlas/textureanim/atlasarrangementlevelselect.unity3d
+    Info_118:
+      Name: layout/uiprefab/uiselectmode.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasmodeselect.unity3d
+        Dependency_1: atlas/gameatlas/atlasridingtheme.unity3d
+        Dependency_2: atlas/textureanim/atlasselectmodecombatlabel.unity3d
+        Dependency_3: atlas/textureanim/atlasselectmodematchlabel.unity3d
+        Dependency_4: atlas/textureanim/atlasselectmodemileagegame.unity3d
+        Dependency_5: atlas/textureanim/atlasthirtypeople.unity3d
+        Dependency_6: texture/textureanim/gameout.unity3d
+        Dependency_7: texture/textureanim/ridingtheme.unity3d
+        Dependency_8: texture/textureanim/settingicon.unity3d
+    Info_119:
+      Name: layout/uiprefab/uisetting.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlassetting.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_2: font/simhei.unity3d
+        Dependency_3: texture/textureanim/settingicon.unity3d
+    Info_120:
+      Name: layout/uiprefab/uisettlementdetail.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbackframe.unity3d
+        Dependency_1: atlas/gameatlas/atlascommon.unity3d
+        Dependency_2: atlas/gameatlas/atlasendingsidedata.unity3d
+        Dependency_3: atlas/gameatlas/atlasresultlabel.unity3d
+        Dependency_4: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_5: atlas/textureanim/atlascombatresult.unity3d
+        Dependency_6: atlas/textureanim/atlaskcallabel.unity3d
+        Dependency_7: atlas/textureanim/atlasmatchvaluelabel.unity3d
+        Dependency_8: atlas/textureanim/atlasmaxheartbeatrate.unity3d
+        Dependency_9: atlas/textureanim/atlasmaxspeedlabel.unity3d
+        Dependency_10: atlas/textureanim/atlasmileagelabel.unity3d
+        Dependency_11: atlas/textureanim/atlasnextloop.unity3d
+        Dependency_12: atlas/textureanim/atlasrankinglabel.unity3d
+        Dependency_13: font.unity3d
+        Dependency_14: material.unity3d
+        Dependency_15: texture/gametexture/binarycode.unity3d
+        Dependency_16: texture/gametexture/common.unity3d
+        Dependency_17: texture/gametexture/student.unity3d
+        Dependency_18: texture/textureanim/championicon.unity3d
+        Dependency_19: texture/textureanim/dataitem.unity3d
+        Dependency_20: texture/textureanim/next.unity3d
+        Dependency_21: texture/textureanim/runnerupicon.unity3d
+        Dependency_22: texture/textureanim/thirdplaceicon.unity3d
+    Info_121:
+      Name: layout/uiprefab/uisettlementsummarize.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_2: atlas/textureanim/atlaswholemodetext.unity3d
+        Dependency_3: texture/gametexture/settlementsummarize.unity3d
+        Dependency_4: texture/textureanim/matchback.unity3d
+        Dependency_5: texture/textureanim/matchbackloop.unity3d
+    Info_122:
+      Name: layout/uiprefab/uisidemenu.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlassidemenu.unity3d
+    Info_123:
+      Name: layout/uiprefab/uistartandendlesson.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/endlesson.unity3d
+        Dependency_1: texture/textureanim/startlesson.unity3d
+    Info_124:
+      Name: layout/uiprefab/uistartvideo.unity3d
+      Dependencies: {}
+    Info_125:
+      Name: layout/uiprefab/uistateeffect.unity3d
+      Dependencies:
+        Dependency_0: texture/textureanim/atmospherelight.unity3d
+        Dependency_1: texture/textureanim/heartratebackground.unity3d
+        Dependency_2: texture/textureanim/smoke.unity3d
+        Dependency_3: texture/textureanim/sprintlight.unity3d
+        Dependency_4: texture/textureanim/uphillwing.unity3d
+    Info_126:
+      Name: layout/uiprefab/uistudentcombat0.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_127:
+      Name: layout/uiprefab/uistudentcombat1.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_128:
+      Name: layout/uiprefab/uistudentcombat2.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_129:
+      Name: layout/uiprefab/uistudentcombat3.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_130:
+      Name: layout/uiprefab/uistudentmatch0.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_131:
+      Name: layout/uiprefab/uistudentmatch1.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_132:
+      Name: layout/uiprefab/uistudentmatch2.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_133:
+      Name: layout/uiprefab/uistudentmatch3.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_134:
+      Name: layout/uiprefab/uistudentmatchuphill0.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_135:
+      Name: layout/uiprefab/uistudentmatchuphill1.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_136:
+      Name: layout/uiprefab/uistudentmatchuphill2.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_137:
+      Name: layout/uiprefab/uistudentmatchuphill3.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_138:
+      Name: layout/uiprefab/uistudentrace.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_139:
+      Name: layout/uiprefab/uistudentwechatlogin.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasstudent.unity3d
+        Dependency_1: atlas/gameatlas/atlaswechatlogin.unity3d
+        Dependency_2: texture/gametexture/common.unity3d
+    Info_140:
+      Name: layout/uiprefab/uitimemileagecombat.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/gameatlas/atlastimemileage.unity3d
+        Dependency_2: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_3: texture/textureanim/mileageshow.unity3d
+        Dependency_4: texture/textureanim/timeshow.unity3d
+    Info_141:
+      Name: layout/uiprefab/uitimemileagematch.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlascommon.unity3d
+        Dependency_1: atlas/gameatlas/atlastimemileage.unity3d
+        Dependency_2: atlas/numberstyle/atlaswhitenumber.unity3d
+        Dependency_3: texture/textureanim/mileageshow.unity3d
+        Dependency_4: texture/textureanim/timeshow.unity3d
+    Info_142:
+      Name: layout/uiprefab/uitopmenu.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlastopmenu.unity3d
+    Info_143:
+      Name: layout/uiprefab/uiturncurve.unity3d
+      Dependencies:
+        Dependency_0: atlas/textureanim/atlasturncurve.unity3d
+    Info_144:
+      Name: layout/uiprefab/uiwechatloginback.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbackframe.unity3d
+        Dependency_1: atlas/gameatlas/atlaswechatlogin.unity3d
+        Dependency_2: texture/gametexture/common.unity3d
+    Info_145:
+      Name: layout/uiprefab/uiwechatstart.unity3d
+      Dependencies:
+        Dependency_0: atlas/gameatlas/atlasbinarycode.unity3d
+        Dependency_1: atlas/gameatlas/atlaswechatlogin.unity3d
+    Info_146:
+      Name: material.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+        Dependency_1: texture/gametexture/common.unity3d
+    Info_147:
+      Name: particle/attackpoint/fx_prefabs/bluepoint.unity3d
+      Dependencies:
+        Dependency_0: particle/attackpoint/materials.unity3d
+    Info_148:
+      Name: particle/attackpoint/fx_prefabs/greenpoint.unity3d
+      Dependencies:
+        Dependency_0: particle/attackpoint/materials.unity3d
+    Info_149:
+      Name: particle/attackpoint/fx_prefabs/redpoint.unity3d
+      Dependencies:
+        Dependency_0: particle/attackpoint/materials.unity3d
+    Info_150:
+      Name: particle/attackpoint/fx_prefabs/yellowpoint.unity3d
+      Dependencies:
+        Dependency_0: particle/attackpoint/materials.unity3d
+    Info_151:
+      Name: particle/attackpoint/materials.unity3d
+      Dependencies:
+        Dependency_0: particle/attackpoint/textures/glow.unity3d
+        Dependency_1: particle/attackpoint/textures/len.unity3d
+        Dependency_2: particle/attackpoint/textures/lightning.unity3d
+    Info_152:
+      Name: particle/attackpoint/textures/glow.unity3d
+      Dependencies: {}
+    Info_153:
+      Name: particle/attackpoint/textures/len.unity3d
+      Dependencies: {}
+    Info_154:
+      Name: particle/attackpoint/textures/lightning.unity3d
+      Dependencies: {}
+    Info_155:
+      Name: scene/start.unity3d
+      Dependencies:
+        Dependency_0: shader.unity3d
+        Dependency_1: skybox/assets_by_unluck_activeden/skyboxes/skyboxbluenebula/materials.unity3d
+        Dependency_2: texture/gametexture/rendertexture.unity3d
+    Info_156:
+      Name: shader.unity3d
+      Dependencies: {}
+    Info_157:
+      Name: skybox/assets_by_unluck_activeden/skyboxes/skyboxbluenebula/images.unity3d
+      Dependencies: {}
+    Info_158:
+      Name: skybox/assets_by_unluck_activeden/skyboxes/skyboxbluenebula/materials.unity3d
+      Dependencies:
+        Dependency_0: skybox/assets_by_unluck_activeden/skyboxes/skyboxbluenebula/images.unity3d
+    Info_159:
+      Name: skybox/assets_by_unluck_activeden/skyboxes/skyboxbluenebula/scenes/skyboxbluenebula_scene.unity3d
+      Dependencies:
+        Dependency_0: skybox/assets_by_unluck_activeden/skyboxes/skyboxbluenebula/materials.unity3d
+    Info_160:
+      Name: sound/gamesound.unity3d
+      Dependencies: {}
+    Info_161:
+      Name: texture/gametexture/10studentframe.unity3d
+      Dependencies: {}
+    Info_162:
+      Name: texture/gametexture/backframe.unity3d
+      Dependencies: {}
+    Info_163:
+      Name: texture/gametexture/backscale.unity3d
+      Dependencies: {}
+    Info_164:
+      Name: texture/gametexture/binarycode.unity3d
+      Dependencies: {}
+    Info_165:
+      Name: texture/gametexture/coach.unity3d
+      Dependencies: {}
+    Info_166:
+      Name: texture/gametexture/coachdate.unity3d
+      Dependencies: {}
+    Info_167:
+      Name: texture/gametexture/combatattacktext.unity3d
+      Dependencies: {}
+    Info_168:
+      Name: texture/gametexture/combatframe.unity3d
+      Dependencies: {}
+    Info_169:
+      Name: texture/gametexture/common.unity3d
+      Dependencies: {}
+    Info_170:
+      Name: texture/gametexture/countdown.unity3d
+      Dependencies: {}
+    Info_171:
+      Name: texture/gametexture/endingsidedata.unity3d
+      Dependencies: {}
+    Info_172:
+      Name: texture/gametexture/gamehint.unity3d
+      Dependencies: {}
+    Info_173:
+      Name: texture/gametexture/heartrate.unity3d
+      Dependencies: {}
+    Info_174:
+      Name: texture/gametexture/introductions.unity3d
+      Dependencies: {}
+    Info_175:
+      Name: texture/gametexture/loading.unity3d
+      Dependencies: {}
+    Info_176:
+      Name: texture/gametexture/mileagegame.unity3d
+      Dependencies: {}
+    Info_177:
+      Name: texture/gametexture/modeselect.unity3d
+      Dependencies: {}
+    Info_178:
+      Name: texture/gametexture/qumu.unity3d
+      Dependencies: {}
+    Info_179:
+      Name: texture/gametexture/racetime.unity3d
+      Dependencies: {}
+    Info_180:
+      Name: texture/gametexture/realscenematchdegree.unity3d
+      Dependencies: {}
+    Info_181:
+      Name: texture/gametexture/rendertexture.unity3d
+      Dependencies: {}
+    Info_182:
+      Name: texture/gametexture/resultlabel.unity3d
+      Dependencies: {}
+    Info_183:
+      Name: texture/gametexture/ridingtheme.unity3d
+      Dependencies: {}
+    Info_184:
+      Name: texture/gametexture/setting.unity3d
+      Dependencies: {}
+    Info_185:
+      Name: texture/gametexture/settlementsummarize.unity3d
+      Dependencies: {}
+    Info_186:
+      Name: texture/gametexture/sidemenu.unity3d
+      Dependencies: {}
+    Info_187:
+      Name: texture/gametexture/student.unity3d
+      Dependencies: {}
+    Info_188:
+      Name: texture/gametexture/thirtypeoplelabel.unity3d
+      Dependencies: {}
+    Info_189:
+      Name: texture/gametexture/timemileage.unity3d
+      Dependencies: {}
+    Info_190:
+      Name: texture/gametexture/topmenu.unity3d
+      Dependencies: {}
+    Info_191:
+      Name: texture/gametexture/wechatlogin.unity3d
+      Dependencies: {}
+    Info_192:
+      Name: texture/textureanim/allmatch.unity3d
+      Dependencies: {}
+    Info_193:
+      Name: texture/textureanim/amazing.unity3d
+      Dependencies: {}
+    Info_194:
+      Name: texture/textureanim/atmospherelight.unity3d
+      Dependencies: {}
+    Info_195:
+      Name: texture/textureanim/attackblue1.unity3d
+      Dependencies: {}
+    Info_196:
+      Name: texture/textureanim/attackblue2.unity3d
+      Dependencies: {}
+    Info_197:
+      Name: texture/textureanim/attackblue3.unity3d
+      Dependencies: {}
+    Info_198:
+      Name: texture/textureanim/attackgreen1.unity3d
+      Dependencies: {}
+    Info_199:
+      Name: texture/textureanim/attackgreen2.unity3d
+      Dependencies: {}
+    Info_200:
+      Name: texture/textureanim/attackgreen3.unity3d
+      Dependencies: {}
+    Info_201:
+      Name: texture/textureanim/attackred1.unity3d
+      Dependencies: {}
+    Info_202:
+      Name: texture/textureanim/attackred2.unity3d
+      Dependencies: {}
+    Info_203:
+      Name: texture/textureanim/attackred3.unity3d
+      Dependencies: {}
+    Info_204:
+      Name: texture/textureanim/attackyellow1.unity3d
+      Dependencies: {}
+    Info_205:
+      Name: texture/textureanim/attackyellow2.unity3d
+      Dependencies: {}
+    Info_206:
+      Name: texture/textureanim/attackyellow3.unity3d
+      Dependencies: {}
+    Info_207:
+      Name: texture/textureanim/championicon.unity3d
+      Dependencies: {}
+    Info_208:
+      Name: texture/textureanim/combatinvalid.unity3d
+      Dependencies: {}
+    Info_209:
+      Name: texture/textureanim/completelymatch.unity3d
+      Dependencies: {}
+    Info_210:
+      Name: texture/textureanim/cool.unity3d
+      Dependencies: {}
+    Info_211:
+      Name: texture/textureanim/crazy.unity3d
+      Dependencies: {}
+    Info_212:
+      Name: texture/textureanim/dataitem.unity3d
+      Dependencies: {}
+    Info_213:
+      Name: texture/textureanim/endlesson.unity3d
+      Dependencies: {}
+    Info_214:
+      Name: texture/textureanim/excellent.unity3d
+      Dependencies: {}
+    Info_215:
+      Name: texture/textureanim/gamefinish.unity3d
+      Dependencies: {}
+    Info_216:
+      Name: texture/textureanim/gameout.unity3d
+      Dependencies: {}
+    Info_217:
+      Name: texture/textureanim/great.unity3d
+      Dependencies: {}
+    Info_218:
+      Name: texture/textureanim/heartratebackground.unity3d
+      Dependencies: {}
+    Info_219:
+      Name: texture/textureanim/heartratecoachshow.unity3d
+      Dependencies: {}
+    Info_220:
+      Name: texture/textureanim/lessonfinish.unity3d
+      Dependencies: {}
+    Info_221:
+      Name: texture/textureanim/logintip.unity3d
+      Dependencies: {}
+    Info_222:
+      Name: texture/textureanim/matchback.unity3d
+      Dependencies: {}
+    Info_223:
+      Name: texture/textureanim/matchbackloop.unity3d
+      Dependencies: {}
+    Info_224:
+      Name: texture/textureanim/matchpercent.unity3d
+      Dependencies: {}
+    Info_225:
+      Name: texture/textureanim/mileageshow.unity3d
+      Dependencies: {}
+    Info_226:
+      Name: texture/textureanim/next.unity3d
+      Dependencies: {}
+    Info_227:
+      Name: texture/textureanim/reachline.unity3d
+      Dependencies: {}
+    Info_228:
+      Name: texture/textureanim/restartcombat.unity3d
+      Dependencies: {}
+    Info_229:
+      Name: texture/textureanim/returnbutton.unity3d
+      Dependencies: {}
+    Info_230:
+      Name: texture/textureanim/ridingtheme.unity3d
+      Dependencies: {}
+    Info_231:
+      Name: texture/textureanim/runnerupicon.unity3d
+      Dependencies: {}
+    Info_232:
+      Name: texture/textureanim/settingicon.unity3d
+      Dependencies: {}
+    Info_233:
+      Name: texture/textureanim/smoke.unity3d
+      Dependencies: {}
+    Info_234:
+      Name: texture/textureanim/sprintlight.unity3d
+      Dependencies: {}
+    Info_235:
+      Name: texture/textureanim/startlesson.unity3d
+      Dependencies: {}
+    Info_236:
+      Name: texture/textureanim/switchvideo.unity3d
+      Dependencies: {}
+    Info_237:
+      Name: texture/textureanim/thirdplaceicon.unity3d
+      Dependencies: {}
+    Info_238:
+      Name: texture/textureanim/timecountdown.unity3d
+      Dependencies: {}
+    Info_239:
+      Name: texture/textureanim/timeshow.unity3d
+      Dependencies: {}
+    Info_240:
+      Name: texture/textureanim/uphillwing.unity3d
+      Dependencies: {}

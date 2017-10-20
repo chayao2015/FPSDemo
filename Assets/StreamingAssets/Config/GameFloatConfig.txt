@@ -1,0 +1,46 @@
+﻿// 注意
+// 每个参数上一行必须是该参数的注释
+// 可以添加任意的换行和空格
+// 变量命名应与代码中枚举命名相同
+
+// 是否异步加载资源
+GDF_LOAD_ASYNC = 1
+
+// 超时未操作踢出玩家的时限
+GDF_KICK_OUT_TIME = 30
+
+// 教练的超时踢出时间
+GDF_COACH_KICK_OUT_TIME = 60
+
+// 游戏开始倒计时
+GDF_RUNNING_COUNT_DOWN = 4
+
+// 车轮转的圈数
+GDF_CIRCLE_COUNT = 4.5
+
+// 全部匹配的持续时间,当达到这个持续时间时才会出现全部匹配字样
+GDF_ALL_MATCH_MAX_LAST_TIME = 1
+
+// 阻力包的发送间隔
+GDF_SEND_FRICTION_INTERVAL = 5
+
+// 是否读取功率来计算速度,不为0则读取速度包中的功率字节,为0则读取速度字节
+GDF_READ_POWER = 0
+
+// 游戏整体音量
+GDF_VOLUME = 0.31
+
+// 当前难度等级
+GDF_DIFFICULTY_LEVEL = 0
+
+// 默认阻力值
+GDF_DEFAULT_FRICTION = 1
+
+// 进入匹配模式时默认进入的骑行模式
+GDF_FIRST_MODE = 0
+
+// 是否显示音乐节奏,0表示不显示,使用固定节奏代替,1表示显示实时音乐节奏
+GDF_USE_AUDIO_EFFECT = 1
+
+// 十人里程赛比赛时间,单位秒
+GDF_RACE_TIME = 200
